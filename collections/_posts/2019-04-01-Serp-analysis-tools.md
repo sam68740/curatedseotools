@@ -117,3 +117,9 @@ Easy Keyword Research with Accurate Results in Less Time.
 
 </div>
 </article>
+
+<article class="resource">
+<div class="resource__info">
+<h2 ><a href="https://app.samuelschmitt.com/#/" target="_blank class=">thruuu - Awesome SERP Analyzer</a></h2>
+Scrap Google SERP for any keywords and get insights about the content.</div>
+</article>
